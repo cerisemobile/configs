@@ -36,7 +36,7 @@
     },
     "update": {
       "_comment": "action= , url, app id",
-      "state": true,
+      "state": false,
       "title": "Update your app",
       "message": "New Version!",
       "action": "",
@@ -49,16 +49,16 @@
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg"
     },
     "rating": {
-      "enabled": true
+      "enabled": false
     },
     "activities": {
       "splash": {
         "duration": 5000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 4000
         }
       },
@@ -71,7 +71,7 @@
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": true,
+            "enabled": false,
             "duration": 3000
           }
         }
