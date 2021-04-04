@@ -1,7 +1,7 @@
 {
   "config": {
     "ads": {
-      "enabled": true,
+      "enabled": false,
       "adcolony": {
         "adcolony_app_id": "",
         "adcolony_interstitial_id": "",
@@ -40,7 +40,7 @@
       "title": "Update your app",
       "message": "New Version!",
       "action": "",
-      "closeable": true
+      "closeable": false
     },
     "exit": {
       "_comment": "type=banner, content=example - type=ad_native - type=banner, image=example link=example",
