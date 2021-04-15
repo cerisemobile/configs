@@ -69,7 +69,7 @@
       "list": {
         "item": {
           "_comment": "type = image, text, card",
-          "type": "image",
+          "type": "card",
           "loader": {
             "enabled": false,
             "duration": 3000
@@ -81,48 +81,48 @@
   "data": {
     "items": [
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://play-lh.googleusercontent.com/qxqyKy6lvAtXe2hHDIHaZfR8yTGUPZNXvbSL4qj2T5Zyt2ZNqWico8x6bSYSPheu5A",
         "title": "Test title 0",
         "description": "Test description 0"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://play-lh.googleusercontent.com/sAuonoho4feQbZd-k70A3AFA2KLjLCB9S2TizYMyAyiptdbdC5Pm1omadPzfNvcMAYA=w720-h310-rw",
         "title": "Test title 1",
         "description": "Test description 1"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://play-lh.googleusercontent.com/7GjsT-0zSAAEd4JuqecROrSy6P16FBAyhDxo3CBjkbjvPlKQpz8DeJgxPWbnPx1Oero=w720-h310-rw",
         "title": "Test title 2",
         "description": "Test description 2"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://play-lh.googleusercontent.com/s02irdCEvYWbBpsVhq2TWgThlfK4j0q_ciwFwt2GgA7dd2fGpBYwy7CZoxyI9LLOk2Y=w720-h310-rw",
         "title": "Test title 3",
         "description": "Test description 3"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://play-lh.googleusercontent.com/_MuiFTQTv-ui2J1EAd9kMsrFbbOtWmZT2BWOJEXCG3YIcjuc-m32kJkWoF_N2bzE7CE=w720-h310-rw",
         "state": "free",
         "title": "Test title 4",
         "description": "Test description 4"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://play-lh.googleusercontent.com/PZ4Wls1xz7PL-3KEfP8q_TjY87aSQBD-bVL1nWT66ZNiUEctsv0adekVkfCCn7bo7fyy=w720-h310-rw",
         "title": "Test title 5",
         "description": "Test description 5"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://play-lh.googleusercontent.com/1ROkB-i30V17hiA70rtCrdPAd7nweMRpYy5mwdPn_gX7N_PZrX4umqCJts4kQv0-OC1_=w720-h310-rw",
         "title": "Test title 6",
         "description": "Test description 6"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://play-lh.googleusercontent.com/DhATW2kyL9spbLFXEg4ugS1TMZ5ShwSOTGRJ933DsuTMCb9da4IUY0mcXqAu3Yhxh_8=w720-h310-rw",
         "title": "Test title 7",
         "description": "Test description 7"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://play-lh.googleusercontent.com/DhATW2kyL9spbLFXEg4ugS1TMZ5ShwSOTGRJ933DsuTMCb9da4IUY0mcXqAu3Yhxh_8=w720-h310-rw",
         "title": "Test title 8",
         "description": "Test description 8"
       }
