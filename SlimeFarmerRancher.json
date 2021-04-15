@@ -15,7 +15,7 @@
         "admob_unit_id": ""
       },
       "appodeal": {
-        "appodeal_app_key": ""
+        "appodeal_app_key": "42d266365670a8c964fc09b5ce3a3572147f992c24d7675c"
       },
       "facebook": {
         "facebook_banner_id": "",
@@ -28,10 +28,10 @@
         "unity_interstitial_id": "",
         "unity_rewarded_id": ""
       },
-      "mode_ads_banner": "admob",
-      "mode_ads_interstitial": "admob",
+      "mode_ads_banner": "appodeal",
+      "mode_ads_interstitial": "appodeal",
       "mode_ads_native_enabled": true,
-      "mode_ads_rewarded": "admob",
+      "mode_ads_rewarded": "appodeal",
       "mode_button_ads_action": "0"
     },
     "update": {
@@ -44,12 +44,12 @@
     },
     "exit": {
       "_comment": "type=banner, content=example - type=ad_native - type=banner, image=example link=example",
-      "type": "banner",
+      "type": "ad_native",
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg"
     },
     "rating": {
-      "enabled": false
+      "enabled": true
     },
     "activities": {
       "splash": {
@@ -64,7 +64,7 @@
       },
       "main": {
         "_comment": "more=developer id",
-        "more": "5700313618786177705"
+        "more": "johndev+Studios"
       },
       "list": {
         "item": {
