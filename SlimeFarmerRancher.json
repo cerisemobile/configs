@@ -58,20 +58,20 @@
       "start": {
         "enabled": false,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 4000
         }
       },
       "main": {
         "_comment": "more=developer id",
-        "more": "johndev+Studios"
+        "more": ""
       },
       "list": {
         "item": {
           "_comment": "type = image, text, card",
           "type": "card",
           "loader": {
-            "enabled": false,
+            "enabled": true,
             "duration": 3000
           }
         }
