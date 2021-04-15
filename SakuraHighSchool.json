@@ -1,26 +1,26 @@
 {
   "config": {
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "adcolony": {
         "adcolony_app_id": "",
         "adcolony_interstitial_id": "",
         "adcolony_rewarded_id": ""
       },
       "admob": {
-        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-        "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+        "admob_banner_id": "",
+        "admob_interstitial_id": "",
+        "admob_native_id": "",
+        "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
       "appodeal": {
-        "appodeal_app_key": ""
+        "appodeal_app_key": "947eff4b630761d48dd6c959552fee5aa7ac0fb8d404541d"
       },
       "facebook": {
-        "facebook_banner_id": "",
-        "facebook_interstitial_id": "",
-        "facebook_native_id": ""
+        "facebook_banner_id": "2455400611272242_2455401631272140",
+        "facebook_interstitial_id": "2455400611272242_2455402874605349",
+        "facebook_native_id": "2455400611272242_2455403571271946"
       },
       "unity": {
         "unity_app_id": "",
