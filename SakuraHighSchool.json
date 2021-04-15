@@ -49,7 +49,7 @@
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg"
     },
     "rating": {
-      "enabled": false
+      "enabled": true
     },
     "activities": {
       "splash": {
@@ -71,7 +71,7 @@
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": false,
+            "enabled": true,
             "duration": 3000
           }
         }
