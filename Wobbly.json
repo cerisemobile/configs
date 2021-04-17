@@ -1,18 +1,18 @@
 {
   "config": {
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "adcolony": {
         "adcolony_app_id": "",
         "adcolony_interstitial_id": "",
         "adcolony_rewarded_id": ""
       },
       "admob": {
-        "admob_banner_id": "",
-        "admob_interstitial_id": "",
-        "admob_native_id": "",
-        "admob_rewarded_id": "",
-        "admob_unit_id": ""
+        "admob_banner_id": "ca-app-pub-5943837238829313/5847243305",
+        "admob_interstitial_id": "ca-app-pub-5943837238829313/8086393839",
+        "admob_native_id": "ca-app-pub-5943837238829313/8281834950",
+        "admob_rewarded_id": "ca-app-pub-5943837238829313/9594916620",
+        "admob_unit_id": "ca-app-pub-5943837238829313~3412651659"
       },
       "appodeal": {
         "appodeal_app_key": "9cf97093ec2e8003ab522658213a78560df8cecc540cf351"
@@ -28,10 +28,10 @@
         "unity_interstitial_id": "",
         "unity_rewarded_id": ""
       },
-      "mode_ads_banner": "facebook",
-      "mode_ads_interstitial": "facebook",
+      "mode_ads_banner": "admob",
+      "mode_ads_interstitial": "admob",
       "mode_ads_native_enabled": true,
-      "mode_ads_rewarded": "facebook",
+      "mode_ads_rewarded": "admob",
       "mode_button_ads_action": "0"
     },
     "update": {
@@ -49,7 +49,7 @@
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg"
     },
     "rating": {
-      "enabled": false
+      "enabled": true
     },
     "activities": {
       "splash": {
@@ -71,7 +71,7 @@
           "_comment": "type = image, text, card",
           "type": "card",
           "loader": {
-            "enabled": false,
+            "enabled": true,
             "duration": 3000
           }
         }
