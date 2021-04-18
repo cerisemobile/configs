@@ -1,18 +1,18 @@
 {
   "config": {
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "adcolony": {
         "adcolony_app_id": "",
         "adcolony_interstitial_id": "",
         "adcolony_rewarded_id": ""
       },
       "admob": {
-        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-        "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
-        "admob_unit_id": ""
+        "admob_banner_id": "ca-app-pub-6158536966049817/5169721921",
+        "admob_interstitial_id": "ca-app-pub-6158536966049817/8917395242",
+        "admob_native_id": "ca-app-pub-6158536966049817/4801222112",
+        "admob_rewarded_id": "ca-app-pub-6158536966049817/8005614733",
+        "admob_unit_id": "ca-app-pub-6158536966049817~6114303788"
       },
       "appodeal": {
         "appodeal_app_key": ""
@@ -49,7 +49,7 @@
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg"
     },
     "rating": {
-      "enabled": false
+      "enabled": true
     },
     "activities": {
       "splash": {
@@ -71,7 +71,7 @@
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": false,
+            "enabled": true,
             "duration": 3000
           }
         }
