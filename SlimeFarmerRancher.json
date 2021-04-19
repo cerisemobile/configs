@@ -56,9 +56,9 @@
         "duration": 5000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 4000
         }
       },
@@ -72,7 +72,7 @@
           "type": "card",
           "loader": {
             "enabled": true,
-            "duration": 3000
+            "duration": 5000
           }
         }
       }
