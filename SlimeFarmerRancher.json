@@ -44,9 +44,9 @@
     },
     "exit": {
       "_comment": "type=banner, content=example - type=ad_native - type=banner, image=example link=example",
-      "type": "example",
-      "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-      "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg"
+      "type": "banner",
+      "image": "https://play-lh.googleusercontent.com/XNkIFouRpOj5_fgwx3UvwFTrdCMM9hUljUbpElthgWrbeKbSNZMMJAG5LcRlsiNP2w",
+      "link": "https://play.google.com/store/apps/details?id=com.guideforwobblylife.thisguidegame"
     },
     "rating": {
       "enabled": true
