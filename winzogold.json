@@ -44,7 +44,7 @@
     },
     "exit": {
       "_comment": "type=banner, content=example - type=ad_native - type=banner, image=example link=example",
-      "type": "banner",
+      "type": "ad_native",
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg"
     },
@@ -81,50 +81,79 @@
   "data": {
     "items": [
       {
-        "image": "https://www.androidfreeware.net/img2/winzo-gold-android-1.jpg",
-        "title": "Test title 0",
-        "description": "Test description 0"
+        "image": "https://siyatechpro.com/wp-content/uploads/2020/05/Winzo-gold-games.jpg",
+        "title": " Install full guide",
+        "description": "What is winzo gold game app?
+        Winzo gold is an online gaming platform. It is an Indian first online fun gaming android app. Winzo game is available for android phones.
+        You can download it from a URL link that I given in this article. There are many online playing games loaded in winzo app. Some of the games are very famous. 
+        The following are the list of games."
       },
       {
         "image": "https://www.androidfreeware.net/img2/winzo-gold-android-1.jpg",
-        "title": "Test title 1",
-        "description": "Test description 1"
+        "title": "Winzo gold games list",
+        "description": "rummy game
+Ludo game
+Cricket
+Metro surfer
+Winzo Carrom
+PUBG mobile game
+Free fire game
+Candy match game
+So, You can win lots of money playing above listed games. India’s most famous game Ludo already built-in winzo. There are lots of more games to win cash prizes."
       },
       {
         "image": "https://www.androidfreeware.net/img2/winzo-gold-android-1.jpg",
-        "title": "Test title 2",
-        "description": "Test description 2"
+        "title": "How can i win money at winzo?
+",
+        "description": "Download winzo gold game app and You can win prizes and cash to playing games in winzo. In winzo you earn real cash rewards. 
+        You can also earn a referral commission from winzo. In winzo referral program when you refer your friend then you get cash in your winzo wallet."
       },
       {
         "image": "https://www.androidfreeware.net/img2/winzo-gold-android-1.jpg",
-        "title": "Test title 3",
-        "description": "Test description 3"
+        "title": "Winzo superstar",
+        "description": "inzo has also recently introduced the Winzo superstar platform. This platform is made for all social media influencers to earn more money. 
+        In this program all famous on youtube, Instagram, Facebook, and those who famous in any other platform can participate. 
+        After joining winzo superstar earn more paytm cash. For more information watch this video presented by winzo."
       },
       {
         "image": "https://www.androidfreeware.net/img2/winzo-gold-android-1.jpg",
         "state": "free",
-        "title": "Test title 4",
-        "description": "Test description 4"
+        "title": "Winzo withdrawl process
+",
+        "description": "You can withdraw your funds into your Paytm wallet. Their minimum withdrawal is rupees three. 
+        Winzo provide Instant withdrawal service. Winzo gold game download is so easy. Paytm cash is the best feature of winzo gold."
       },
       {
         "image": "https://www.androidfreeware.net/img2/winzo-gold-android-1.jpg",
-        "title": "Test title 5",
-        "description": "Test description 5"
+        "title": "Winzo gold app features:",
+        "description": "
+Instant withdrawal option
+The minimum withdrawal is so less
+Android games for money
+Winzo apk free download
+Winzo gold referral code
+Provide many popular games on the internet
+Choose any language. Supported all Indian languages"
       },
       {
         "image": "https://www.androidfreeware.net/img2/winzo-gold-android-1.jpg",
-        "title": "Test title 6",
-        "description": "Test description 6"
+        "title": "How do I download winzo gold?",
+        "description": "So let’s I give you full tutorial of Winzo gold game download. So friends Plz follow the below steps to download and Install winzo app.
+
+"
+      },
+      {
+        "image": "https://siyatechpro.com/wp-content/uploads/2020/05/Winzo-gold-game-download.jpg",
+        "title": " Download winzo gold game",
+        "description": "Winzo gold is not available on play store or app store, but don’t worry you can directly download it from their official website from the link provided below
+        :  www.winzogames.com
+        
+        "
       },
       {
         "image": "https://www.androidfreeware.net/img2/winzo-gold-android-1.jpg",
-        "title": "Test title 7",
-        "description": "Test description 7"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 8",
-        "description": "Test description 8"
+        "title": "All About Winzo Gold",
+        "description": "Winzo gold is an online e-sports platform which allow its users to play some simple mobiles games like cricket, carom board, fruit cutter and many more. And the best thing is we can earn money by playing this games. If your interested to convert your free time to another income source then winzo gold is the best choice for you."
       }
     ]
   }
