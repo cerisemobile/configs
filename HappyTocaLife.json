@@ -44,12 +44,12 @@
     },
     "exit": {
       "_comment": "type=banner, content=example - type=ad_native - type=banner, image=example link=example",
-      "type": "banner",
+      "type": "ad_native",
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg"
     },
     "rating": {
-      "enabled": false
+      "enabled": true
     },
     "activities": {
       "splash": {
@@ -69,7 +69,7 @@
       "list": {
         "item": {
           "_comment": "type = image, text, card",
-          "type": "image",
+          "type": "card",
           "loader": {
             "enabled": false,
             "duration": 3000
