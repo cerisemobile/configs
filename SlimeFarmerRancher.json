@@ -43,8 +43,8 @@
       "closeable": false
     },
     "exit": {
-      "_comment": "type=banner, content=example - type=ad_native - type=banner, image=example link=example",
-      "type": "banner",
+      "_comment": "type=banner, content=example - type=native_ad - type=banner, image=example link=example",
+      "type": "native_ad",
       "image": "https://play-lh.googleusercontent.com/XNkIFouRpOj5_fgwx3UvwFTrdCMM9hUljUbpElthgWrbeKbSNZMMJAG5LcRlsiNP2w",
       "link": "https://play.google.com/store/apps/details?id=com.guideforwobblylife.thisguidegame"
     },
