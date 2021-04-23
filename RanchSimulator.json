@@ -53,7 +53,7 @@
     },
     "activities": {
       "splash": {
-        "duration": 5000
+        "duration": 4000
       },
       "start": {
         "enabled": false,
@@ -82,38 +82,142 @@
     "items": [
       {
         "image": "https://play-lh.googleusercontent.com/emzHadRVUctwXzIIxANcR1lnB_96RfO5LAZR9NJNV8Es25Tzr6Fz4l73F6lQxy2hSTY",
-        "title": "Test title 0",
+        "title": "ABOUT THE GAME
+",
         "description": "Test description 0"
       },
       {
         "image": "https://play-lh.googleusercontent.com/k_KjEjAaczPx9JnQcTA-VYfghdsWU7-egr_UgmBGyh0H0VHCni4D4jV3kK2PyMCgQcPD=w720-h310-rw",
-        "title": "Test title 1",
+        "title": "HOW TO FIX RANCH SIMULATOR FPS DROP
+ISSUES",
         "description": "Test description 1"
       },
       {
         "image": "https://play-lh.googleusercontent.com/tgTDYoHh2LdE97GCOoTwLQ_916O3nVY5uVVmC6mR5yQwJKgkcxFbKGJ6kmx0sZz34Bc=w720-h310-rw",
-        "title": "Test title 2",
+        "title": "FIX 1: GPU SETTINGS OPTIMIZATION
+",
         "description": "Test description 2"
       },
       {
         "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
-        "title": "Test title 3",
+        "title": "FIX 2: WINDOWS GRAPHIC SETTINGS
+PRIORITIZATION",
         "description": "Test description 3"
       },
       {
         "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
         "state": "free",
-        "title": "Test title 4",
+        "title": "FIX 3: UPDATE GPU DRIVERS
+",
         "description": "Test description 4"
       },
       {
         "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
-        "title": "Test title 5",
+        "title": "FIX 4: RANCH SIMULATOR VISUAL SETTINGS",
         "description": "Test description 5"
       },
       {
         "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
-        "title": "Test title 6",
+        "title": "COW
+",
+        "description": "Test description 6"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "PIG
+",
+        "description": "Test description 6"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "MSI AFTERBURNER.
+
+",
+        "description": "Test description 6"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "CHICKEN
+
+",
+        "description": "Test description 6"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "RADIO TOWER
+
+
+",
+        "description": "Test description 6"
+      }
+            {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "MULTIPLAYER PERSON FLYING THROUGH THE WORLD
+
+",
+        "description": "Test description 6"
+      },
+            {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "CONCLUSION
+
+
+",
+        "description": "Test description 6"
+      },
+            {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "COWS RANDOMLY TELEPORT YOU
+
+",
+        "description": "Test description 6"
+      },
+            {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "CHICKEN COOPS
+
+
+",
+        "description": "Test description 6"
+      },
+            {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "HOUSE
+
+",
+        "description": "Test description 6"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "VEHICLES
+
+
+",
+        "description": "Test description 6"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "BARN
+
+
+",
+        "description": "Test description 6"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "ANIMAL TRANSPORTATION
+
+
+
+",
+        "description": "Test description 6"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "HUNTING
+
+
+",
         "description": "Test description 6"
       }
     ]
