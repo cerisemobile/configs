@@ -1,7 +1,7 @@
 {
   "config": {
     "ads": {
-      "enabled": true,
+      "enabled": false,
       "adcolony": {
         "adcolony_app_id": "",
         "adcolony_interstitial_id": "",
@@ -56,9 +56,9 @@
         "duration": 5000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 4000
         }
       },
