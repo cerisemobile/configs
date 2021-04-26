@@ -56,23 +56,23 @@
         "duration": 5000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 4000
         }
       },
       "main": {
         "_comment": "more=developer id",
-        "more": "5700313618786177705"
+        "more": ""
       },
       "list": {
         "item": {
           "_comment": "type = image, text, card",
           "type": "card",
           "loader": {
-            "enabled": false,
-            "duration": 4000
+            "enabled": true,
+            "duration": 5000
           }
         }
       }
