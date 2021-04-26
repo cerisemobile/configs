@@ -1,17 +1,17 @@
 {
   "config": {
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "adcolony": {
         "adcolony_app_id": "",
         "adcolony_interstitial_id": "",
         "adcolony_rewarded_id": ""
       },
       "admob": {
-        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "admob_banner_id": "ca-app-pub-4682551986945845/1137572608",
+        "admob_interstitial_id": "ca-app-pub-4682551986945845/7647140638",
         "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-        "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+        "admob_rewarded_id": "ca-app-pub-4682551986945845/6334058969",
         "admob_unit_id": ""
       },
       "appodeal": {
@@ -71,8 +71,8 @@
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": false,
-            "duration": 3000
+            "enabled": true,
+            "duration": 4000
           }
         }
       }
