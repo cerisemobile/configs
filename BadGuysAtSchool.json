@@ -49,16 +49,16 @@
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg"
     },
     "rating": {
-      "enabled": false
+      "enabled": true
     },
     "activities": {
       "splash": {
         "duration": 5000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 4000
         }
       },
@@ -82,29 +82,34 @@
     "items": [
       {
         "image": "https://play-lh.googleusercontent.com/JBpTWdHEcFE_dHf8UP6S6sVAADcEVjgo5udNSsieWniTVPdl99BQgNQ-HqzZ9j1jpt0",
-        "title": "Test title 0",
-        "description": "Test description 0"
+        "title": "Game Information
+",
+        "description": "In Bad Guys at School you can play as students and revolt against school system, or decide to become a teacher that must maintain order despite the violence and brutality in the school. Play in multiplayer or single player mode and complete missions to earn reputation and money to become a "Bad Guy"."
       },
       {
         "image": "https://play-lh.googleusercontent.com/-xJ_hyMT3DD0yyubh2jQWHZ1urW_wP0pkgTnG48av7FHwQ3rwkOSfjs1YIRZgfrRlIM=w720-h310-rw",
-        "title": "Test title 1",
-        "description": "Test description 1"
+        "title": "Customize Our Looks
+",
+        "description": "Beyond yourself, there are 101 other unique character in the game that you can customize to your liking. You can change each one of their costumes to make each a lot more different from the rest. To do this, you should click on the third icon on the upper left hand side of your screen which bring out your cell phone and then press on the phone button."
       },
       {
         "image": "https://play-lh.googleusercontent.com/uWXCxhPPE1m-yQFdXU-dWBUbwtuSwrrEsmcF8tAhOxgBGu850T_Wetc6os_3O8VxSw=w720-h310-rw",
-        "title": "Test title 2",
-        "description": "Test description 2"
+        "title": "Everyone Can Follow You
+",
+        "description": "Running around the school yard and its numerous facilities can be lonely sometimes despite seeing people from time to time especially during school hours. As you many want to have some people walk or run with you as you explore the school as well as the rest of the town."
       },
       {
         "image": "https://play-lh.googleusercontent.com/uWXCxhPPE1m-yQFdXU-dWBUbwtuSwrrEsmcF8tAhOxgBGu850T_Wetc6os_3O8VxSw=w720-h310-rw",
-        "title": "Test title 3",
-        "description": "Test description 3"
+        "title": "Buying Gifts
+",
+        "description": "When you first launch the game,you will start at your house and you can already grab a gift from your desk. You may initially want to keep holding it and remember that you can only carry 1 item at time."
       },
       {
         "image": "https://play-lh.googleusercontent.com/zEaUdt1yKASzwIh0-hqZ-HFQAVn4tNrfn_aKftGzWlAKEPUQzPo5B2mDmRINI0d3mdE=w720-h310-rw",
         "state": "free",
-        "title": "Test title 4",
-        "description": "Test description 4"
+        "title": "Joining Clubs and Playing Sport
+",
+        "description": "There are also club that don't engage in sports like the Garden Club Which is probably the firs club you'll see when your first enter the school."
       },
       {
         "image": "https://play-lh.googleusercontent.com/-xJ_hyMT3DD0yyubh2jQWHZ1urW_wP0pkgTnG48av7FHwQ3rwkOSfjs1YIRZgfrRlIM=w720-h310-rw",
