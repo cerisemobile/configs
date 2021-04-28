@@ -1,18 +1,18 @@
 {
   "config": {
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "adcolony": {
         "adcolony_app_id": "",
         "adcolony_interstitial_id": "",
         "adcolony_rewarded_id": ""
       },
       "admob": {
-        "admob_banner_id": "ca-app-pub-6158536966049817/1368888341",
-        "admob_interstitial_id": "ca-app-pub-6158536966049817/4650847174",
-        "admob_native_id": "ca-app-pub-6158536966049817/7085438826",
-        "admob_rewarded_id": "ca-app-pub-6158536966049817/9711602168",
-        "admob_unit_id": "ca-app-pub-5943837238829313~3412651659"
+        "admob_banner_id": "ca-app-pub-1807546597813052/9732950754",
+        "admob_interstitial_id": "ca-app-pub-1807546597813052/4480624072",
+        "admob_native_id": "ca-app-pub-1807546597813052/8228297393",
+        "admob_rewarded_id": "",
+        "admob_unit_id": ""
       },
       "appodeal": {
         "appodeal_app_key": "9cf97093ec2e8003ab522658213a78560df8cecc540cf351"
@@ -53,12 +53,12 @@
     },
     "activities": {
       "splash": {
-        "duration": 5000
+        "duration": 3000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 4000
         }
       },
