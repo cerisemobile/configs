@@ -8,9 +8,9 @@
         "adcolony_rewarded_id": ""
       },
       "admob": {
-        "admob_banner_id": "ca-app-pub-4682551986945845/9235516481",
-        "admob_interstitial_id": "ca-app-pub-4682551986945845/5620894479",
-        "admob_native_id": "ca-app-pub-4682551986945845/6609353147",
+        "admob_banner_id": "ca-app-pub-2791039091471326/9410646427",
+        "admob_interstitial_id": "ca-app-pub-2791039091471326/1532156405",
+        "admob_native_id": "ca-app-pub-2791039091471326/5279829722",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
@@ -53,18 +53,18 @@
     },
     "activities": {
       "splash": {
-        "duration": 5000
+        "duration": 2000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 4000
         }
       },
       "main": {
         "_comment": "more=developer id",
-        "more": "5700313618786177705"
+        "more": ""
       },
       "list": {
         "item": {
