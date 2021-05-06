@@ -71,8 +71,8 @@
           "_comment": "type = image, text, card",
           "type": "card",
           "loader": {
-            "enabled": false,
-            "duration": 3000
+            "enabled": true,
+            "duration": 5000
           }
         }
       }
