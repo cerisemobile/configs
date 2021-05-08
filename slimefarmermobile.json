@@ -49,16 +49,16 @@
       "link": "https://play.google.com/store/apps/details?id=com.guideforwobblylife.thisguidegame"
     },
     "rating": {
-      "enabled": true
+      "enabled": false
     },
     "activities": {
       "splash": {
-        "duration": 2000
+        "duration": 4000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 4000
         }
       },
