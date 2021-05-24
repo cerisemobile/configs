@@ -45,8 +45,8 @@
     "exit": {
       "_comment": "type=banner, content=example - type=ad_native - type=banner, image=example link=example",
       "type": "banner",
-      "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-      "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg"
+      "image": "https://play-lh.googleusercontent.com/03RPJy2a7JyJnENuBWspHqqj8ldIkkBLVU0rJq4uYtG6Xhaq2f3SHWL0I7CKPVG4LQ50=w720-h310-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.bestappsmobile.scaryteachertips.appnana"
     },
     "rating": {
       "enabled": false
@@ -56,9 +56,9 @@
         "duration": 2000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 4000
         }
       },
@@ -71,7 +71,7 @@
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": true,
+            "enabled": false,
             "duration": 4000
           }
         }
