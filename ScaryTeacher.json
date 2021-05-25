@@ -1,7 +1,7 @@
 {
   "config": {
     "ads": {
-      "enabled": true,
+      "enabled": false,
       "adcolony": {
         "adcolony_app_id": "",
         "adcolony_interstitial_id": "",
@@ -45,7 +45,7 @@
     "exit": {
       "_comment": "type=banner, content=example - type=ad_native - type=banner, image=example link=example",
       "type": "banner",
-      "image": "https://play-lh.googleusercontent.com/03RPJy2a7JyJnENuBWspHqqj8ldIkkBLVU0rJq4uYtG6Xhaq2f3SHWL0I7CKPVG4LQ50=w720-h310-rw",
+      "image": "https://lh3.googleusercontent.com/_xCIRFpsyI7aIQ9lyBk9zn7NZvOPa6wqUzy3-k7bjKx3Vz0TDS0Im79Xb2xXtdCQvvc=h310",
       "link": "https://play.google.com/store/apps/details?id=com.bestappsmobile.scaryteachertips.appnana"
     },
     "rating": {
