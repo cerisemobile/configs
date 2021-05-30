@@ -1,16 +1,16 @@
 {
   "config": {
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "adcolony": {
         "adcolony_app_id": "",
         "adcolony_interstitial_id": "",
         "adcolony_rewarded_id": ""
       },
       "admob": {
-        "admob_banner_id": "ca-app-pub-6842042658936110/4612188261",
-        "admob_interstitial_id": "ca-app-pub-6842042658936110/1986024920",
-        "admob_native_id": "ca-app-pub-6842042658936110/3567534056",
+        "admob_banner_id": "ca-app-pub-9450354479559142/9955383390",
+        "admob_interstitial_id": "ca-app-pub-9450354479559142/3566354425",
+        "admob_native_id": "ca-app-pub-9450354479559142/6726584821",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
@@ -44,7 +44,7 @@
     },
     "exit": {
       "_comment": "type=banner, content=example - type=ad_native - type=banner, image=example link=example",
-      "type": "banner",
+      "type": "ad_native",
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg"
     },
@@ -53,12 +53,12 @@
     },
     "activities": {
       "splash": {
-        "duration": 3000
+        "duration": 5000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 4000
         }
       },
@@ -71,8 +71,8 @@
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": false,
-            "duration": 4000
+            "enabled": true,
+            "duration": 5000
           }
         }
       }
