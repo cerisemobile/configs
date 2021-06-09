@@ -82,49 +82,49 @@
     "items": [
       {
         "image": "https://wallpapercave.com/wp/wp1833957.jpg",
-        "title": "Test title 0",
-        "description": "Test description 0"
+        "title": "",
+        "description": ""
       },
       {
         "image": "https://wallpapercave.com/w/wp1837482",
-        "title": "Test title 1",
-        "description": "Test description 1"
+        "title": "",
+        "description": ""
       },
       {
         "image": "https://wallpapercave.com/w/wp1833987",
-        "title": "Test title 2",
-        "description": "Test description 2"
+        "title": "",
+        "description": ""
       },
       {
         "image": "https://wallpapercave.com/w/wp1837486",
-        "title": "Test title 3",
-        "description": "Test description 3"
+        "title": "",
+        "description": ""
       },
       {
         "image": "https://wallpapercave.com/wp/wp1837492.jpg",
         "state": "free",
-        "title": "Test title 4",
-        "description": "Test description 4"
+        "title": "",
+        "description": ""
       },
       {
         "image": "https://wallpapercave.com/wp/wp1837492.jpg",
-        "title": "Test title 5",
-        "description": "Test description 5"
+        "title": "",
+        "description": ""
       },
       {
         "image": "https://wallpapercave.com/wp/wp1837495.jpg",
-        "title": "Test title 6",
-        "description": "Test description 6"
+        "title": "",
+        "description": ""
       },
       {
         "image": "https://wallpapercave.com/wp/wp1837497.jpg",
-        "title": "Test title 7",
-        "description": "Test description 7"
+        "title": "",
+        "description": ""
       },
       {
         "image": "https://wallpapercave.com/wp/wp1833984.jpg",
-        "title": "Test title 8",
-        "description": "Test description 8"
+        "title": "",
+        "description": ""
       }
     ]
   }
