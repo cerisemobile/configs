@@ -8,9 +8,9 @@
         "adcolony_rewarded_id": ""
       },
       "admob": {
-        "admob_banner_id": "ca-app-pub-4510720367069794/9272362274",
-        "admob_interstitial_id": "ca-app-pub-4510720367069794/5333117265",
-        "admob_native_id": "ca-app-pub-4510720367069794/1393872254",
+        "admob_banner_id": "ca-app-pub-2880125573669364/2323483571",
+        "admob_interstitial_id": "ca-app-pub-2880125573669364/8697320233",
+        "admob_native_id": "ca-app-pub-2880125573669364/4758075223",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
@@ -53,12 +53,12 @@
     },
     "activities": {
       "splash": {
-        "duration": 3000
+        "duration": 5000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 4000
         }
       },
@@ -72,7 +72,7 @@
           "type": "card",
           "loader": {
             "enabled": true,
-            "duration": 4000
+            "duration": 5000
           }
         }
       }
